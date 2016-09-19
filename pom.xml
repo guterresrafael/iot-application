@@ -6,7 +6,7 @@
     <artifactId>application</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
-    <name>application</name>
+    <name>application :: IoTecnologia</name>
   
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
