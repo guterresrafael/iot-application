@@ -12,8 +12,8 @@
     <artifactId>web</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
-    <name>IoT :: web</name>
-    
+    <name>IoT_web</name>
+
     <dependencies>
         <dependency>
             <groupId>javax</groupId>

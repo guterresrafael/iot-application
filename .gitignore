@@ -1,2 +1,6 @@
 /target/
 /web/target/
+/core/target/
+/domain/target/
+/service/target/
+/batch/target/
