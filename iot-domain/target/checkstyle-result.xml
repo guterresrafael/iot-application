@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\Command.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\Device.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\DeviceMeta.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\Position.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\Role.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\User.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\entity\UserMeta.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\filter\CommandFilter.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\filter\DeviceFilter.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\filter\PositionFilter.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\filter\UserFilter.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\repository\CommandRepository.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\repository\DeviceRepository.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\repository\PositionRepository.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\repository\UserRepository.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\service\CommandService.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\service\DeviceService.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\service\PositionService.java">
+</file>
+<file name="C:\DEV\Project\OpenShift\application\iot-domain\src\main\java\iot\domain\service\UserService.java">
+</file>
+</checkstyle>

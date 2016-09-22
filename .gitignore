@@ -4,3 +4,7 @@
 /domain/target/
 /service/target/
 /batch/target/
+/iot-core/target/
+/iot-service/target/
+/iot-web/target/
+/iot-message/target/

@@ -1,0 +1,8 @@
+{
+  "realm": "tracker",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy9i03QXWs92IT9omEKLoTJYvt2YyHirFtZlWbQyYoDQENXc3xey5SlJmO98ue7lKon4o2Rs8ISKTpFrVFWw0lgqicC10MEfcj7uF9O6vvzSLH0KtM4wxfHItQ+5GNYVuzJvnIFSOmn1XF+UAC6/0KVFJcfYyRA2+K2mrWoQRp4i1qBRTTBcEgKfc5SXBSmVRd7O1Tss18jk0EXj6kWLeQp7O4jEntUtzJGBGg5HqtFFS0U1/2to1leqWb9P/KK8VHpDXctSl6xJGuPsmGrgQ7jQ/LN5PnD3eb7kmpV2wvuQoiL6hQMaNSTokCV5EnWRPMSOVZdm4DroHBzprBGy37wIDAQAB",
+  "bearer-only": true,
+  "auth-server-url": "https://account-authapp.rhcloud.com/auth",
+  "ssl-required": "external",
+  "resource": "bearer"
+}
